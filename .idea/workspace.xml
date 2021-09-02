@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0f7301e-7b64-4449-afa9-50360fbd5583" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mi_card_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mi_card_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mi_card_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mi_card_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mi_card_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mi_card_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mi_card_flutter/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mi_card_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mi_card_flutter/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mi_card_flutter" />
+  </component>
+  <component name="ProjectId" id="1scOBHFavgiWsuaQvXyv9tV9uEt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/mi_card_flutter/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/mi_card_flutter" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0f7301e-7b64-4449-afa9-50360fbd5583" name="Default Changelist" comment="" />
+      <created>1621168273704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621168273704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="133" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621168335564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="133" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1621168335564" />
+    <state x="332" y="28" key="#main.dart" timestamp="1621168415410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="332" y="28" key="#main.dart/0.0.1366.728@0.0.1366.728" timestamp="1621168415410" />
+    <state x="92" y="92" width="1182" height="544" key="AVDManager" timestamp="1622043630985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1622043630985" />
+    <state x="60" y="161" key="run.anything.popup" timestamp="1621168341924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="60" y="161" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1621168341924" />
+  </component>
+</project>
